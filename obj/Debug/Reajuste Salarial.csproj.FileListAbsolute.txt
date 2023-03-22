@@ -1,0 +1,11 @@
+C:\Users\levir\source\repos\Reajuste Salarial\bin\Debug\Reajuste Salarial.exe.config
+C:\Users\levir\source\repos\Reajuste Salarial\bin\Debug\Reajuste Salarial.exe
+C:\Users\levir\source\repos\Reajuste Salarial\bin\Debug\Reajuste Salarial.pdb
+C:\Users\levir\source\repos\Reajuste Salarial\obj\Debug\Reajuste Salarial.csproj.AssemblyReference.cache
+C:\Users\levir\source\repos\Reajuste Salarial\obj\Debug\Reajuste Salarial.csproj.SuggestedBindingRedirects.cache
+C:\Users\levir\source\repos\Reajuste Salarial\obj\Debug\Reajuste_Salarial.Properties.Resources.resources
+C:\Users\levir\source\repos\Reajuste Salarial\obj\Debug\Reajuste Salarial.csproj.GenerateResource.cache
+C:\Users\levir\source\repos\Reajuste Salarial\obj\Debug\Reajuste Salarial.csproj.CoreCompileInputs.cache
+C:\Users\levir\source\repos\Reajuste Salarial\obj\Debug\Reajuste Salarial.exe
+C:\Users\levir\source\repos\Reajuste Salarial\obj\Debug\Reajuste Salarial.pdb
+C:\Users\levir\source\repos\Reajuste Salarial\obj\Debug\Reajuste_Salarial.Form1.resources
